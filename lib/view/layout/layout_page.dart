@@ -12,8 +12,8 @@ class LayoutPage extends StatelessWidget {
   final _pages = [
     const HomePage(),
     const ExamsPage(),
-    const SchedulesPage(),
     const BookmarkPage(),
+    const SchedulesPage(),
     const ProfilePage(),
   ];
 
