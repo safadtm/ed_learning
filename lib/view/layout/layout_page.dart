@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/utils/bottom_nav/bottom_navigation_bar.dart';
+import 'package:my_app/view/widgets/bottom_nav/bottom_navigation_bar.dart';
 import 'package:my_app/view/bookmark/bookmark_page.dart';
 import 'package:my_app/view/exams/exams_page.dart';
 import 'package:my_app/view/home/home_page.dart';

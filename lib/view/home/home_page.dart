@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_app/res/custom_names.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -40,7 +41,7 @@ class HomePage extends StatelessWidget {
                   ),
                   const SizedBox(width: 10),
                   const Text(
-                    "Hi Safad",
+                    "Hi ${CustomNames.myname}",
                     style: TextStyle(
                       fontSize: 20,
                       color: Colors.orangeAccent,
